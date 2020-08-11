@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+
+    <node name="qt_app"  pkg="qt_app"  type = "qt_app_node" />
+
+</launch>
